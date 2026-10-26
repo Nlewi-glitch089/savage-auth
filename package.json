@@ -1,6 +1,12 @@
 {
   "name": "node-authentication",
   "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  },
   "dependencies": {
     "bcrypt": "*",
     "bcrypt-nodejs": "^0.0.3",
