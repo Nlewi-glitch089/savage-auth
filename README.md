@@ -32,3 +32,10 @@ The server exits with an error if `MONGODB_URI` or `SESSION_SECRET` is missing, 
 ## Credit
 
 Modified from Scotch.io's auth tutorial
+
+
+## Live Demo
+
+[Open Savage Auth](https://savage-auth-xwwz.onrender.com/)
+
+The application is deployed on Render. Sign-in and registration depend on the configured MongoDB connection and session environment variables.
